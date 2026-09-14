@@ -1,3 +1,3 @@
 # Subsystem barrier
 class Module_barrier:
-    rev = 19
+    rev = 39
