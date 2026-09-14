@@ -1,3 +1,3 @@
 # Subsystem frames
 class Module_frames:
-    rev = 10
+    rev = 30
