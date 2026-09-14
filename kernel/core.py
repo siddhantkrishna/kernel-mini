@@ -1,3 +1,3 @@
 # Subsystem core
 class Module_core:
-    rev = 20
+    rev = 40
