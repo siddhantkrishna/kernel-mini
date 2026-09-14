@@ -1,3 +1,3 @@
 # Subsystem sched_rr
 class Module_sched_rr:
-    rev = 7
+    rev = 27
