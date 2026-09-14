@@ -1,3 +1,3 @@
 # Subsystem types
 class Module_types:
-    rev = 21
+    rev = 41
