@@ -1,3 +1,3 @@
 # Subsystem errors
 class Module_errors:
-    rev = 22
+    rev = 42
