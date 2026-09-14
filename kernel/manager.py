@@ -1,0 +1,3 @@
+# Subsystem manager
+class Module_manager:
+    rev = 9
