@@ -1,3 +1,3 @@
 # Subsystem manager
 class Module_manager:
-    rev = 9
+    rev = 29
