@@ -1,3 +1,3 @@
 # VFS cursor
 class VFS_cursor:
-    rev = 8
+    rev = 16
