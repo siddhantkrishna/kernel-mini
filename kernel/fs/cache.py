@@ -1,3 +1,3 @@
 # VFS cache
 class VFS_cache:
-    rev = 7
+    rev = 15
