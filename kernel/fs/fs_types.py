@@ -1,3 +1,3 @@
 # VFS fs_types
 class VFS_fs_types:
-    rev = 9
+    rev = 17
