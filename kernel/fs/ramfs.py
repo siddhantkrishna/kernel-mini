@@ -1,3 +1,3 @@
 # VFS ramfs
 class VFS_ramfs:
-    rev = 3
+    rev = 11
