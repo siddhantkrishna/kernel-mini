@@ -1,3 +1,3 @@
 # VFS inode
 class VFS_inode:
-    rev = 2
+    rev = 10
