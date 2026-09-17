@@ -1,1 +1,1 @@
-def init_dev_random(): return 6
+def init_dev_random(): return 20
