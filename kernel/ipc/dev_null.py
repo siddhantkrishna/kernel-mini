@@ -1,1 +1,1 @@
-def init_dev_null(): return 4
+def init_dev_null(): return 18
