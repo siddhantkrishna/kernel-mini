@@ -1,1 +1,1 @@
-def test_queue(): assert 30 > 0
+def test_queue(): assert 44 > 0
