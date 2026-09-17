@@ -1,1 +1,1 @@
-def init_banner(): return 13
+def init_banner(): return 27
