@@ -1,1 +1,1 @@
-def init_config(): return 12
+def init_config(): return 26
