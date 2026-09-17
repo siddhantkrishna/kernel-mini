@@ -1,1 +1,1 @@
-def init_queue(): return 2
+def init_queue(): return 16
