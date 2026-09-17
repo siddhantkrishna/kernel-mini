@@ -1,1 +1,1 @@
-def init_signals(): return 3
+def init_signals(): return 17
