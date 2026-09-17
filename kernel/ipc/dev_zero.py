@@ -1,1 +1,1 @@
-def init_dev_zero(): return 5
+def init_dev_zero(): return 19
