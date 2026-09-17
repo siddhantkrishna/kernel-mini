@@ -1,1 +1,1 @@
-def test_pipe(): assert 29 > 0
+def test_pipe(): assert 43 > 0
