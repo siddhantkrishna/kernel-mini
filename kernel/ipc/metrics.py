@@ -1,1 +1,1 @@
-def init_metrics(): return 11
+def init_metrics(): return 25
