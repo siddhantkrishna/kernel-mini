@@ -1,1 +1,1 @@
-def init_repl(): return 10
+def init_repl(): return 24
