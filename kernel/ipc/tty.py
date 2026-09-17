@@ -1,1 +1,1 @@
-def init_tty(): return 7
+def init_tty(): return 21
